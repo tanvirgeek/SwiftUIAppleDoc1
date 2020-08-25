@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB338C1F24F51EB000F5645A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB338C1E24F51EB000F5645A /* MapView.swift */; };
+		EB3A6B4324F3EC2800F9C028 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3A6B4224F3EC2800F9C028 /* CircleImage.swift */; };
 		EB83E98424F3C49F00227EC8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB83E98324F3C49F00227EC8 /* AppDelegate.swift */; };
 		EB83E98624F3C49F00227EC8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB83E98524F3C49F00227EC8 /* SceneDelegate.swift */; };
 		EB83E98824F3C49F00227EC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB83E98724F3C49F00227EC8 /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB338C1E24F51EB000F5645A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		EB3A6B4224F3EC2800F9C028 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		EB83E98024F3C49F00227EC8 /* AppleDocumentationSUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleDocumentationSUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB83E98324F3C49F00227EC8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB83E98524F3C49F00227EC8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				EB83E98924F3C4A000227EC8 /* Assets.xcassets */,
 				EB83E98E24F3C4A000227EC8 /* LaunchScreen.storyboard */,
 				EB83E99124F3C4A000227EC8 /* Info.plist */,
+				EB3A6B4224F3EC2800F9C028 /* CircleImage.swift */,
+				EB338C1E24F51EB000F5645A /* MapView.swift */,
 				EB83E98B24F3C4A000227EC8 /* Preview Content */,
 			);
 			path = AppleDocumentationSUI;
@@ -148,6 +154,8 @@
 			files = (
 				EB83E98424F3C49F00227EC8 /* AppDelegate.swift in Sources */,
 				EB83E98624F3C49F00227EC8 /* SceneDelegate.swift in Sources */,
+				EB338C1F24F51EB000F5645A /* MapView.swift in Sources */,
+				EB3A6B4324F3EC2800F9C028 /* CircleImage.swift in Sources */,
 				EB83E98824F3C49F00227EC8 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
